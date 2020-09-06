@@ -10,4 +10,3 @@ Trabajos FreeLance
 	<a href="https://www.linkedin.com/in/carloscardenasf/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <br/><a href="https://www.cardenas.pe/">www.cardenas.pe</a>
 </p>
-Verificando
