@@ -1,3 +1,7 @@
+La Dignidad del Dolor
+
+git add * && git commit -m "Enviando CV" && git push origin master
+
 Pendientes
 =========
 Judith -> Recuperar su confinza cerrado la web
@@ -10,7 +14,7 @@ Wilmer Proyectos->
 Julio -> Preguntarle sobre cuando depositará la factura.
 Tunky -> hacer la web 
 
-
+Colegio de Psicologos Inscribirse.
 
 llamar a los creadores de tesis 
 
@@ -22,6 +26,16 @@ Instalar y intentar hacer el arbol.
 Hacer subdominios
 
 Enviar CV A Miguel Amaya Camacho
+
+
+HACER EXAMENES RAPPI :)
+
+... Balance de 5 minutos :( ... 
+	-> Estuve Bien o mal
+	-> Arrastrar por la perdida de Valores.
+	-> Hacer primar la especie solidaria y sana de la especie humana.
+	-> 	
+
 
 
 ==========================
