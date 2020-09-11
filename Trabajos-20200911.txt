@@ -1,4 +1,6 @@
-La Dignidad del Dolor
+La Dignidad del Dolor.
+Compasión con uno mismo.
+Conocer el dolor y usarlo como palanca y motivación de cambio y lucha.
 
 git add * && git commit -m "Enviando CV" && git push origin master
 
@@ -6,7 +8,7 @@ Pendientes
 =========
 Judith -> Recuperar su confinza cerrado la web
 Miguel -> 500 y 500. Pedirle adelanto
-
+Kely -> bicicleta
  ... Sacar el backups
 Joseph ->  Enviado
 Alexandra -> Definir precio de revisión de tesis.
@@ -27,7 +29,7 @@ Hacer subdominios
 
 Enviar CV A Miguel Amaya Camacho
 
-Kely bicicleta
+
 
 Conocer al paciente por su app
 ===============================
