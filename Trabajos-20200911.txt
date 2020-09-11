@@ -8,6 +8,8 @@ Aprender a cargar con la cicatrices con el dolor y la mochila.
 
 Cada generación aprende con lo que toca vivir. Aprendemos con lo que pase a nosotros.
 
+Aprendamos del dolor que la bonanza.
+
 
 git add * && git commit -m "Enviando CV" && git push origin master
 
