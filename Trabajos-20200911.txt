@@ -1,6 +1,13 @@
 La Dignidad del Dolor.
 Compasión con uno mismo.
 Conocer el dolor y usarlo como palanca y motivación de cambio y lucha.
+Hermosura de vivir al tope.
+Es lo bueno de dar algo a los demás.
+
+Aprender a cargar con la cicatrices con el dolor y la mochila.
+
+Cada generación aprende con lo que toca vivir. Aprendemos con lo que pase a nosotros.
+
 
 git add * && git commit -m "Enviando CV" && git push origin master
 
