@@ -16,6 +16,8 @@ git add * && git commit -m "Enviando CV" && git push origin master
 
 Pendientes
 =========
+... ORDENAR ...
+
 Judith -> Recuperar su confinza cerrado la web
 Miguel -> 500 y 500. Pedirle adelanto
  ... Sacar el backups
@@ -60,6 +62,16 @@ Hacer subdominios
 ->Envié 5 CV.
 ->tengo una entrevista más
 ->Enviar CV A Miguel Amaya Camacho
+
+===============================
+Amor no es dolor.
+Amor no es factidio.
+Amor no es enojo.
+===============================
+
+-> 
+- Aceptación de como soy.
+- No puedo cambiar a la pareja, 
 
 
 Conocer al paciente por su app
