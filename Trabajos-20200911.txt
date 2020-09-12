@@ -10,7 +10,6 @@ Cada generación aprende con lo que toca vivir. Aprendemos con lo que pase a nos
 
 Aprendamos del dolor que la bonanza.
 
-
 git add * && git commit -m "Enviando CV" && git push origin master
 
 Pendientes
@@ -22,7 +21,12 @@ Kely -> bicicleta
 Joseph ->  Enviado
 Alexandra -> Definir precio de revisión de tesis.
 Wilmer Proyectos->
+_________________________________________________________-___
 Julio -> Preguntarle sobre cuando depositará la factura.
+AVISAR EL DIA JUEVES DE LA PROXIMA SEMANA A JULIO PARA COBRAR
+Pasar la factura la siguiente semana otra de 1000.
+
+_________________________________________________________-___
 Tunky -> hacer la web 
 
 8 de Octubre Concurso de APP S HUAWEI
@@ -42,6 +46,7 @@ Enviar CV A Miguel Amaya Camacho
 
 
 
+
 Conocer al paciente por su app
 ===============================
 
@@ -53,6 +58,8 @@ HACER EXAMENES RAPPI :)
 	-> Hacer primar la especie solidaria y sana de la especie humana.
 	-> 	
 
+
+Doodle VIDEO :(
 
 
 ==========================
