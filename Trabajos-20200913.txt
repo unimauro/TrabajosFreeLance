@@ -108,6 +108,13 @@ Application Development with Qt Creator - Third Edition: Build cross-platform ap
 
 Data Structures & Algorithms In Go by Hemant Jain
 English | 20 Sep. 2017 | ASIN: B075TBM9KS | 562 Pages | AZW3 | 3.44 MB
+
+Learn Data Structures and Algorithms with Golang: Level up your Go programming skills to develop faster and more efficient code by Bhagvan Kommadi
+English | March 30, 2019 | ISBN: 1789618509 | PDF | 336 pages | 5.6 MB
+
+Corey Scott, "Hands-On Dependency Injection in Go: Develop clean Go code that is easier to read, maintain, and test"
+English | ISBN: 1789132762 | 2018 | PDF | 338 pages | 4 MB
+
 _________________________________________________________-___
 _________________________________________________________-___
 
