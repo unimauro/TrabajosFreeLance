@@ -22,7 +22,6 @@ git add * && git commit -m "Enviando CV" && git push origin master
 Pendientes
 =========
 ... ORDENAR ...
-
 Judith -> Recuperar su confinza cerrado la web
 Miguel -> 500 y 500. Pedirle adelanto
  ... Sacar el backups
@@ -41,6 +40,9 @@ Miguel Amaya CV ENVIADO :)
 
 ): :(
 
+Buenos Días Amores 20200913
+Los amo niños :) los quiero, mande ya un cv mas :) ... Y estudiare y haré los examenes :) Los amo :)
+
 PENDIENTE PROXIMA SEMANA.
 
 https://www.linkedin.com/in/carloscardenasf/
@@ -49,6 +51,29 @@ _________________________________________________________-___
 ->ROY PUEDE REVISAR MI CV PARA MEJORAR LA PRESENTACION 
 
 ->OCultar recomendaciones del linkedin
+
+Effective DevOps with AWS:
+Implement continuous delivery and integration in the AWS environment, 2nd Edition
+by Yogesh Raheja
+English | October 9th, 2018 | ISBN: 1789539978 | 384 Pages | PDF True | 14 MB
+
+Introduction to DevOps with Kubernetes:
+Build scalable cloud-native applications using DevOps patterns created with Kubernetes
+by Onur Yılmaz
+English | 2019 | ISBN: 1789808286 | 374 Pages | PDF true | 17 MB
+
+Master Apache JMeter - From Load Testing to DevOps: Master performance testing with JMeter
+by Antonio Gomes Rodrigues
+English | 2019 | ISBN: 1839217642 | 469 Pages | PDF | 15 MB
+
+Master Apache Jmeter: From Load Testing to DevOps by Antonio Gomes Rodrigues, Bruno Demion, Philippe Mouawad
+English | August 1st, 2019 | ISBN: 1839217642 | 466 pages | EPUB | 36.04 MB
+
+Kubernetes- A Complete DevOps Cookbook:
+Build and manage your applications, orchestrate containers, and deploy cloud-native services
+by Murat Karslioglu
+English | 2020 | ISBN: 1838828044 | 576 Pages | PDF,EPUB | 35 MB
+
 
 _________________________________________________________-___
 Julio -> Preguntarle sobre cuando depositará la factura.
