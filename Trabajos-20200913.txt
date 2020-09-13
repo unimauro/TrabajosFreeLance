@@ -243,4 +243,50 @@ Mi número de Cuenta Interbancario en Interbank es: 00389801317974430042
 + 
 + 
 + 
+________________________________________________________________________
 
+:::COVER LETTER:::
+________________________________________________________________________
+
+Estimado DiffBot.
+
+Le escribo con respecto a su puesto de trabajo de ingeniero de software. Como Candidato con amplia experiencia en ingeniería de software, atención al cliente, gestión de servicios.
+Mi sólida trayectoria en liderazgo, comunicación y dedicación me ha permitido dirigir equipos con un desempeño excepcional.
+
+La oportunidad de unirme a DiffBot me interesa mucho porque es un trabajo ideal y para crecer en mi carrera. Como titular de sistemas de ingeniería, puedo ejecutar de manera competente tareas difíciles y complejas con una visión holística.
+
+Creo que sería un activo valioso para su equipo y ofrezco mi currículum para que lo revise.
+
+Según mi resumen profesional, mis cualidades y experiencia me hacen muy apto para el puesto de Ingeniero de Software.
+Soy muy apreciado por realizar innovaciones y optimizaciones. Soy competente en tecnología, ingeniero de software y sistemas de información.
+
+A lo largo de mi carrera, he demostrado los más altos niveles de servicios y compromiso con la misión de cualquier organización en la que he trabajado para Huawei, Tata Consultancy Service, SugarLabs, Google Summer of Code.
+
+Por lo tanto, si busca y organiza con los reclutadores una reunión, puede ponerse en contacto conmigo para concertar una entrevista.
+
+Le agradezco el tiempo y la consideración y espero tener noticias suyas.
+
+Saludos.
+
+
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+EN
+
+I have participated in a software projects since 2002 from graphic design through Web development, server administration, security, auditing, UX Usability, Software Engineering, Data Science and DevOps.
+My last experience was in Huawei for more than 4 years in various projects for Telefónica and Claro, in the last one, a management center for technological attention calls with more than 30 million calls per month.
+I have participated in two Google Summer of Code in 2008 for PostNuke's Zikula fork and in 2012 for Ascend4 a mathematical system for nonlinear simulation.
+I enter other experiences work for the banking sector with Tata Consultancy Service for Rimac and BCP, in addition to making software for Peruvian warships.
+In almost all the latest projects, starting in 2012, I had the participation of remote teams and in English, improving my participation in negotiations, taking into account cultural differences and improving communication strategies with my teams.
+Currently I have completed a quantum computing course by IBM (July 2020) and have published two books on learnpub https://leanpub.com/u/unimauro
+_____________________________________________________________________________________
+
+ES 
+_____________________________________________________________________________________
+He participado en proyectos de software desde 2002 desde el diseño gráfico hasta el desarrollo web, administración de servidores, seguridad, auditoría, UX Usabilidad, Ingeniería de Software, Data Science y DevOps.
+Mi última experiencia fue en Huawei por más de 4 años en varios proyectos para Telefónica y Claro, en el último, un centro de gestión de llamadas de atención tecnológica con más de 30 millones de llamadas al mes.
+Participé en dos Google Summer of Code en 2008 para la bifurcación Zikula de PostNuke y en 2012 para Ascend4, un sistema matemático para simulación no lineal.
+Entro otras experiencias de trabajo para el sector bancario con Tata Consultancy Service para Rimac y BCP, además de hacer software para buques de guerra peruanos.
+En casi todos los últimos proyectos, a partir de 2012, conté con la participación de equipos remotos y en inglés, mejorando mi participación en las negociaciones, teniendo en cuenta las diferencias culturales y mejorando las estrategias de comunicación con mis equipos.
+Actualmente he completado un curso de computación cuántica por IBM (julio de 2020) y he publicado dos libros en learnpub https://leanpub.com/u/unimauro
