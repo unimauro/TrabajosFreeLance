@@ -27,7 +27,6 @@ Miguel -> 500 y 500. Pedirle adelanto  ... Sacar el backups
 Kely -> bicicleta
 Alexandra -> Definir precio de revisión de tesis.
 Wilmer Proyectos->
-
 ISBN A la Biblioteca Nacional
 
 Practicar el Ingles para las entrevistas. Tratar de estar en AVANZADO.
@@ -103,6 +102,12 @@ Kubernetes- A Complete DevOps Cookbook:
 Build and manage your applications, orchestrate containers, and deploy cloud-native services
 by Murat Karslioglu
 English | 2020 | ISBN: 1838828044 | 576 Pages | PDF,EPUB | 35 MB
+
+Application Development with Qt Creator - Third Edition: Build cross-platform applications and GUIs using Qt5 and C++ by Lee Zhi Eng, Ray Rischpater
+2020 | ISBN: 1789951755 | English | 365 pages | PDF/EPUB/MOBI (True) | 20 MB/24 MB/42 MB
+
+Data Structures & Algorithms In Go by Hemant Jain
+English | 20 Sep. 2017 | ASIN: B075TBM9KS | 562 Pages | AZW3 | 3.44 MB
 _________________________________________________________-___
 _________________________________________________________-___
 
@@ -168,6 +173,14 @@ Doodle VIDEO :(
 
 ==========================
 El presidente esta pagando con puestos sus apoyos políticos... Debe ir preso por eso y los que están allí sin formación mas que conducción de votos pero ahora no.  NUESTRO PAÍS ES FRÁGIL y su composición estatal es quebradiza, corrupta y desordenada. Nos costara mucho
+
+
+Celulares: 983328683.
+983328683
+
+
+
+Coursera - Control of Mobile Robots (Georgia Institute of Technology)  eBooks & eLearning
 
 ==========================
 :: Cuentas Bancarias ::
