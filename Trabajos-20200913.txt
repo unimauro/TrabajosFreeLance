@@ -56,6 +56,10 @@ _________________________________________________________-___
 
 ->OCultar recomendaciones del linkedin
 
+
+_________________________________________________________-___
+A DESCARGAR 
+_________________________________________________________-___
 Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 2018 | ISBN: 1788624068 | English | 594 pages | True PDF | 5 MB
 
@@ -80,6 +84,8 @@ Kubernetes- A Complete DevOps Cookbook:
 Build and manage your applications, orchestrate containers, and deploy cloud-native services
 by Murat Karslioglu
 English | 2020 | ISBN: 1838828044 | 576 Pages | PDF,EPUB | 35 MB
+_________________________________________________________-___
+_________________________________________________________-___
 
 
 _________________________________________________________-___
@@ -129,7 +135,6 @@ Amor no es enojo.
 ===============================
 
 IDEAS 
-
 
 
 Conocer al paciente por su app
