@@ -47,10 +47,17 @@ PENDIENTE PROXIMA SEMANA.
 
 https://www.linkedin.com/in/carloscardenasf/
 _________________________________________________________-___
-20200913
+
+PENDIENTES
+_________________________________________________________-___
+_________________________________________________________-___
+20200915
 ->ROY PUEDE REVISAR MI CV PARA MEJORAR LA PRESENTACION 
 
 ->OCultar recomendaciones del linkedin
+
+Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
+2018 | ISBN: 1788624068 | English | 594 pages | True PDF | 5 MB
 
 Effective DevOps with AWS:
 Implement continuous delivery and integration in the AWS environment, 2nd Edition
@@ -94,8 +101,9 @@ Hacer subdominios
 _______________________________________________________________
 20200912 -> OK
 ->Video a los niños.
-->Envié Correo con los password de los Correos
-
+->Envié Correo con los password de los Correos.
+->Hable con Ángel.
+->Link de devops.
 _______________________________________________________________
 20200911 -> OK
 ->ENVIE REVISION RAPIDA DEL ALEJANDRA
