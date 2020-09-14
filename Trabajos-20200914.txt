@@ -163,6 +163,22 @@ Ads Bidding -> Optimizar Algoritmo.
 Fraud Detection
 Stockout Prediction - > Predicción de de Stock Integración Inventarios
 
+________________________
+Rappi Maps para desplazamiento de bicicletas.
+
+Customer Service 
+________________________
+
+:::Algoritmo "BERT" Representación vectorial:::
+
+Classifier
+
+Modelo en IOS o Android.
+
+
+
+
+
 
 
 
