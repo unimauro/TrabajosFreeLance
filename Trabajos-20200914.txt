@@ -145,6 +145,13 @@ Vice Presidente de Inteligencia Artificial de Rappi
 
 Hay equipo de DS en Perú :)
 
+
+Implementar el modelo en un microservicio.
+
+Proceso Creativo. No genera la version. 
+
+Hay que sacar las primeras opciones de negocios.  
+
 Valor en la Data.
 
 IA Aplicaciones:::
@@ -170,6 +177,23 @@ Customer Service
 ________________________
 
 :::Algoritmo "BERT" Representación vectorial:::
+:::Algoritmo "REST2VEC" Representación vectorial:::
+:::Uplift modeling:::
+
+Usuarios que compran. 
+
+Probabilidad de compra dada una oferta/ PRobabilidad de Compra dada una no oferta.
+
+Customer purchases 
+
+
+
+
+:::Algoritmo para la Campaña:::
+
+
+
+
 
 Classifier
 
@@ -177,10 +201,15 @@ Modelo en IOS o Android.
 
 Sistema de Recomendación de Restaurantes.
 
-
 Click en la primera pantalla 
 
 Serendipia -> Como Permitirle al usuario descubrir uno nuevo.
+
+Similarity corwdsourcing
+
+Consumir data desde el primer click
+
+Sessión mostrarle la intensionalidad. 
 ________________________
 
 
@@ -243,40 +272,52 @@ ________________________________________________________________________________
 Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 2018 | ISBN: 1788624068 | English | 594 pages | True PDF | 5 MB
 
+
 Effective DevOps with AWS:
 Implement continuous delivery and integration in the AWS environment, 2nd Edition
 by Yogesh Raheja
 English | October 9th, 2018 | ISBN: 1789539978 | 384 Pages | PDF True | 14 MB
+
 
 Introduction to DevOps with Kubernetes:
 Build scalable cloud-native applications using DevOps patterns created with Kubernetes
 by Onur Yılmaz
 English | 2019 | ISBN: 1789808286 | 374 Pages | PDF true | 17 MB
 
+
 Master Apache JMeter - From Load Testing to DevOps: Master performance testing with JMeter
 by Antonio Gomes Rodrigues
 English | 2019 | ISBN: 1839217642 | 469 Pages | PDF | 15 MB
 
+
 Master Apache Jmeter: From Load Testing to DevOps by Antonio Gomes Rodrigues, Bruno Demion, Philippe Mouawad
 English | August 1st, 2019 | ISBN: 1839217642 | 466 pages | EPUB | 36.04 MB
+
 
 Kubernetes- A Complete DevOps Cookbook:
 Build and manage your applications, orchestrate containers, and deploy cloud-native services
 by Murat Karslioglu
 English | 2020 | ISBN: 1838828044 | 576 Pages | PDF,EPUB | 35 MB
 
+
 Application Development with Qt Creator - Third Edition: Build cross-platform applications and GUIs using Qt5 and C++ by Lee Zhi Eng, Ray Rischpater
 2020 | ISBN: 1789951755 | English | 365 pages | PDF/EPUB/MOBI (True) | 20 MB/24 MB/42 MB
+
 
 Data Structures & Algorithms In Go by Hemant Jain
 English | 20 Sep. 2017 | ASIN: B075TBM9KS | 562 Pages | AZW3 | 3.44 MB
 
+
 Learn Data Structures and Algorithms with Golang: Level up your Go programming skills to develop faster and more efficient code by Bhagvan Kommadi
 English | March 30, 2019 | ISBN: 1789618509 | PDF | 336 pages | 5.6 MB
+
 
 Corey Scott, "Hands-On Dependency Injection in Go: Develop clean Go code that is easier to read, maintain, and test"
 English | ISBN: 1789132762 | 2018 | PDF | 338 pages | 4 MB
 
+
+Cracking The Machine Learning Interview by Nitin Suri
+English | December 15, 2018 | ASIN: B07K4Y6T3J | 126 pages | AZW3 | 1.16 MB
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 
