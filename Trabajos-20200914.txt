@@ -129,8 +129,45 @@ Hacer un CV para GOOGLE TIPO GOOGLE.
 
 ): :(
 
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+--->
+RAPPI FUNFADORES
+
+Felipe Villamarin, Sebastián Mejía, and Simón Borrero
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+
+Alejandro Correa
+Vice Presidente de Inteligencia Artificial de Rappi
+
+( ECS, RDS, EC2, S3)
+
+Hay equipo de DS en Perú :)
+
+Valor en la Data.
+
+IA Aplicaciones:::
+Customer Segmentation
+Support Optimization
+ETA estimation
+Restaurant recommendation
+Intelligent dispatch
+Credit Score
+Demand mangament
+Suplay relocation
+Workforce schedule
+Growth marketing
+Search Engine -> 40 mil Request
+Ads Bidding -> Optimizar Algoritmo.
+Fraud Detection
+Stockout Prediction - > Predicción de de Stock Integración Inventarios
 
 
+
+
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 https://www.linkedin.com/in/carloscardenasf
 
