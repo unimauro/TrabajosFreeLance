@@ -129,95 +129,7 @@ Hacer un CV para GOOGLE TIPO GOOGLE.
 
 ): :(
 
-_________________________________________________________________________________________________
-_________________________________________________________________________________________________
---->
-RAPPI FUNFADORES
 
-Felipe Villamarin, Sebastián Mejía, and Simón Borrero
-_________________________________________________________________________________________________
-_________________________________________________________________________________________________
-
-Alejandro Correa
-Vice Presidente de Inteligencia Artificial de Rappi
-
-( ECS, RDS, EC2, S3)
-
-Hay equipo de DS en Perú :)
-
-
-Implementar el modelo en un microservicio.
-
-Proceso Creativo. No genera la version. 
-
-Hay que sacar las primeras opciones de negocios.  
-
-Valor en la Data.
-
-IA Aplicaciones:::
-Customer Segmentation
-Support Optimization
-ETA estimation
-Restaurant recommendation
-Intelligent dispatch
-Credit Score
-Demand mangament
-Suplay relocation
-Workforce schedule
-Growth marketing
-Search Engine -> 40 mil Request
-Ads Bidding -> Optimizar Algoritmo.
-Fraud Detection
-Stockout Prediction - > Predicción de de Stock Integración Inventarios
-
-________________________
-Rappi Maps para desplazamiento de bicicletas.
-
-Customer Service 
-________________________
-
-:::Algoritmo "BERT" Representación vectorial:::
-:::Algoritmo "REST2VEC" Representación vectorial:::
-:::Uplift modeling:::
-
-Usuarios que compran. 
-
-Probabilidad de compra dada una oferta/ PRobabilidad de Compra dada una no oferta.
-
-Customer purchases 
-
-
-
-
-:::Algoritmo para la Campaña:::
-
-
-
-
-
-Classifier
-
-Modelo en IOS o Android.
-
-Sistema de Recomendación de Restaurantes.
-
-Click en la primera pantalla 
-
-Serendipia -> Como Permitirle al usuario descubrir uno nuevo.
-
-Similarity corwdsourcing
-
-Consumir data desde el primer click
-
-Sessión mostrarle la intensionalidad. 
-________________________
-
-
-
-
-
-
-_________________________________________________________________________________________________
 _________________________________________________________________________________________________
 
 https://www.linkedin.com/in/carloscardenasf
@@ -320,6 +232,8 @@ Cracking The Machine Learning Interview by Nitin Suri
 English | December 15, 2018 | ASIN: B07K4Y6T3J | 126 pages | AZW3 | 1.16 MB
 
 
+500 Most Important Machine Learning Interview Questions and Answers: Crack That Next Interview With Higher Salary In Less Preparation Time by Vamsee Puligadda
+English | January 14, 2019 | ASIN: B07MTPSWS8 | 146 pages | AZW3 | 0.72 MB
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 20200914 -> OK
