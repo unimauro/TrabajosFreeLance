@@ -175,7 +175,13 @@ Classifier
 
 Modelo en IOS o Android.
 
+Sistema de Recomendación de Restaurantes.
 
+
+Click en la primera pantalla 
+
+Serendipia -> Como Permitirle al usuario descubrir uno nuevo.
+________________________
 
 
 
