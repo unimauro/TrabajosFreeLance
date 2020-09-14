@@ -21,13 +21,17 @@ PERDONARSE
 
 1-> Reconocer el erro. Reconoce que eres inocente. No importa. No hay niveles. ES UN ERROR
 CORREGIR Y NO CASTIGARTE.
+
 2-> Como corregir el error desde el amor. 3 Ideas.
-3-> Como lo puedo enmendar. 
-4-> Hablar con la persona y aceptar el error. Aceptar la consecuencia. Escribiéndole una carta liberarse.
-5-> Orar, meditar el propósito y la lección. Mensaje 
-6-> Compasión con uno mismo.
-7-> Perdonarnos. Elijo ver esto con los ojos del amor y me perdono.
-8-> TAPPING, Método. Técnica de Liberación para SI MISMO. Elijo amarme y perpetarme como a todos.
+ Como lo puedo enmendar. 
+
+3-> Hablar con la persona y aceptar el error. Aceptar la consecuencia. Escribiéndole una carta liberarse.
+ Orar, meditar el propósito y la lección. Mensaje 
+
+4-> Compasión con uno mismo.
+ Perdonarnos. Elijo ver esto con los ojos del amor y me perdono.
+
+8-> TAPPING, Método. Técnica de Liberación para SI MISMO. Elijo amarme y perpetarme como a todos. Estimularse cada ciertos meridianos.
 
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
@@ -62,7 +66,8 @@ ________________________________________________________________________________
 git add * && git commit -m "Enviando CV" && git push origin master
 
 Pendientes
-=========
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 ... ORDENAR ...
 Judith -> Recuperar su confinza cerrado la web
 Miguel -> 500 y 500. Pedirle adelanto  ... Sacar el backups
@@ -83,23 +88,26 @@ Hacer un CV para GOOGLE TIPO GOOGLE.
 https://www.linkedin.com/in/carloscardenasf
 
 https://github.com/unimauro
-_________________________________________________________-___
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 
 PENDIENTE PROXIMA SEMANA.
 PENDIENTES
-_________________________________________________________-___
-_________________________________________________________-___
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 20200915
 ->ROY PUEDE REVISAR MI CV PARA MEJORAR LA PRESENTACION 
 ->OCultar recomendaciones del linkedin
 
 
-_________________________________________________________-___
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 Julio -> Preguntarle sobre cuando depositará la factura.
 AVISAR EL DIA JUEVES DE LA PROXIMA SEMANA A JULIO PARA COBRAR
 Pasar la factura la siguiente semana otra de 1000.
 
-_________________________________________________________-___
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
 Tunky -> hacer la web 
 
 8 de Octubre Concurso de APP S HUAWEI
@@ -115,13 +123,13 @@ Enviar enlaces a Pablito.
 
 Hacer el Cuento para los niños.
 
-_________________________________________________________-___
+_______________________________________________________________
 
 
 
-_________________________________________________________-___
+_______________________________________________________________
 A DESCARGAR 
-_________________________________________________________-___
+_______________________________________________________________
 Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 2018 | ISBN: 1788624068 | English | 594 pages | True PDF | 5 MB
 
@@ -159,8 +167,8 @@ English | March 30, 2019 | ISBN: 1789618509 | PDF | 336 pages | 5.6 MB
 Corey Scott, "Hands-On Dependency Injection in Go: Develop clean Go code that is easier to read, maintain, and test"
 English | ISBN: 1789132762 | 2018 | PDF | 338 pages | 4 MB
 
-_________________________________________________________-___
-_________________________________________________________-___
+_______________________________________________________________
+_______________________________________________________________
 
 
 _______________________________________________________________
@@ -197,19 +205,21 @@ _______________________________________________________________
 _______________________________________________________________
 _______________________________________________________________
 
-===============================
+_______________________________________________________________
+_______________________________________________________________
 COSAS QUE NO ACEPTO
 
 Amor no es dolor.
 Amor no es factidio.
 Amor no es enojo.
-===============================
+_______________________________________________________________
+_______________________________________________________________
 
 IDEAS 
 
 
 Conocer al paciente por su app
-===============================
+_______________________________________________________________
 
 HACER EXAMENES RAPPI :)
 
