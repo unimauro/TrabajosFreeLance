@@ -14,6 +14,19 @@ Aprendamos del dolor que la bonanza.
 
 Aprender a dominarnos.
 
+Hago falta ?. Solo a mí-
+
+:::Un día. Un tiempo. Que yo no soy el mismo. 
+
+No ser egoístas . 
+
+Debo sumar felicidad. 
+
+Esforzarse en encontrar trabajo.
+
+DERROTADOS SON LOS QUE DEJAN DE LUCHAS. EL HOMBRE ES UN ANIMAL MUY FUERTE
+
+DEJAR DE LUCHAR ES DEJAR DE SOÑAR.
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -32,27 +45,17 @@ Imaginarme como sera verlos en octubre el 2 y 3 de octubre.
 
 Contacto con los niños. Momentos positivos
 
-Esforzarse en encontrar trabajo.
-
 Prepararse para el primer encuentro. Hacer reir a ella. 
 
-Hago falta ?. 
-
-:::Un día. Un tiempo. Que yo no no soy el mismo. 
-
-Gracias Lucía gracias por darle tu amor. Y que ellos se sienten bien y felices.
-
-No ser egoístas . 
-
-Debo sumar felicidad. 
-
 Plantar flores :)
+
+Pelotas para los niños :) 
+
+Preparar las bromas. 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Buscar el niño interior, pero recordar que somos adultos eso de niño en el interior.
-
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -62,14 +65,11 @@ Cambiar y estar mejorado, por que dar miedo volver con la persona que era antes 
 
 Crisis de Carencias y de Tristeza.
 
-Preparar las bromas. 
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 
 PERDONARSE 
-
 
 1-> Reconocer el error. Reconoce que eres inocente. No importa. No hay niveles. ES UN ERROR
 CORREGIR Y NO CASTIGARTE.
@@ -85,6 +85,10 @@ _____________________________
 
 8-> TAPPING, Método. Técnica de Liberación para SI MISMO. Elijo amarme y perpetarme como a todos. Estimularse cada ciertos meridianos.
 
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+
+Si se da un reencuentro
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 A ser fuertes en nuestras batallas
@@ -109,11 +113,6 @@ Inicien dar afección. Mensajes.
 - Aceptación de como soy.
 - No puedo cambiar a la pareja, 
 
-DERROTADOS SON LOS QUE DEJAN DE LUCHAS. EL HOMBRE ES UN ANIMAL MUY FUERTE
-
-DEJAR DE LUCHAR ES DEJAR DE SOÑAR.
-
-
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 
@@ -122,14 +121,12 @@ Uhmm bueno como herramientas usamos mucho airflow, kubernetes, jenkins, bueno py
 Y las pruebas técnicas dependen la vertical. En mi caso fue una prueba en hackerrank y luego un crear un modelo
 
 
-
-
 git add * && git commit -m "Enviando CV" && git push origin master
 
 Pendientes
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
-... ORDENAR ...
+... TAREAS A CUMPLIR ...
 Judith -> Recuperar su confinza cerrado la web 2020/09/14
 Miguel -> 500 y 500. Pedirle adelanto  ... Sacar el backups HOY LEVANTAR LA WEB 2020/09/14
 
@@ -451,3 +448,11 @@ Participé en dos Google Summer of Code en 2008 para la bifurcación Zikula de P
 Entro otras experiencias de trabajo para el sector bancario con Tata Consultancy Service para Rimac y BCP, además de hacer software para buques de guerra peruanos.
 En casi todos los últimos proyectos, a partir de 2012, conté con la participación de equipos remotos y en inglés, mejorando mi participación en las negociaciones, teniendo en cuenta las diferencias culturales y mejorando las estrategias de comunicación con mis equipos.
 Actualmente he completado un curso de computación cuántica por IBM (julio de 2020) y he publicado dos libros en learnpub https://leanpub.com/u/unimauro
+
+_________________________________________________________
+_________________________________________________________
+Futuro Oculin… Estás dentro de los finalistas en el proceso y ser parte de nuestro maravilloso equipo. Ahora pasarás a la siguiente etapa… ¡La prueba técnica! Por favor, enviar su disponibilidad para su desarrollo, esta cuenta con 2 horas, así que por favor, escribir al correo dan@ocularsolution.com, confirmando horarios, para agendarles.
+
+Mucha suerte,
+CTO
+Dan
