@@ -174,26 +174,11 @@ Grifos
 Boton de Panico
 Comunidad
 
-_______________________________
-:::Melissa Amado
-
-Publicacion de hits :)
-
-Alcances y reunion tecnica :) 
-
-Cuadrar bien los numero.
-
-Jorge o Geanpear :)
-
-DEEPmit 
-_______________________________
-
-
 Alexandra -> Definir precio de revisión de tesis. Hecho Cada Jueves 2020/09/17
 Wilmer Proyectos-> 2020/09/15
 ISBN A la Biblioteca Nacional 2020/09/16
 Hacer el reto de RAPPI ML: 2020/09/15 
-Hacer reto de GetOnBOARD : 2020/09/14 LISTO 
+
 Hacer el reto de RAPPI: 2020/09/15
 Hacer Reto de PRediktiva: 2020/09/16 /15 /17
 Practicar Ingles una vez al DIA hora y media: DICCION Y GRAMATICA
@@ -214,18 +199,10 @@ ______________________________________________________________________________
 Web para VOTACIONES DE CONCURSOS
 ______________________________________________________________________________
 
-Accept the assignment —
-React and Rails Challenge V0
-Once you accept this assignment, you will be granted access to the react-and-rails-challenge-v0-unimauro repository in the getonbrd-concierge organization on GitHub.
 
 
 -------------------------------------------
 -------------------------------------------
-Doctor alia 
-Sesion 50 min costo 200 soles.
-Deposito Cuenta continental
-
- 
 -------------------------------------------
 -------------------------------------------
 
@@ -256,12 +233,9 @@ PENDIENTE PROXIMA SEMANA.
 PENDIENTES
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
-20200915
+20200918
 ->ROY PUEDE REVISAR MI CV PARA MEJORAR LA PRESENTACION 
 ->OCultar recomendaciones del linkedin
-
-
-
 
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
@@ -286,6 +260,33 @@ Enviar enlaces a Pablito.
 
 Hacer el Cuento para los niños.
 
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+Productos:
+
+-> ETL machine learning. Web software. 
+
+-> Visualización . Web Assembly o OpenGL
+
+-> Coordinar mejor y llevar el equipo. -> 20 y 30% y Codigo 70 y 80%. 
+
+
+Java Spring bot-> API REST -> SPA
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+________________________________
+-> 2 developers data science.
+-> diseñadora.
+________________________________
+-> UN SENIOR <-
+________________________________
+-> Dev mas Junior
+________________________________
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
@@ -350,6 +351,32 @@ English | December 15, 2018 | ASIN: B07K4Y6T3J | 126 pages | AZW3 | 1.16 MB
 
 500 Most Important Machine Learning Interview Questions and Answers: Crack That Next Interview With Higher Salary In Less Preparation Time by Vamsee Puligadda
 English | January 14, 2019 | ASIN: B07MTPSWS8 | 146 pages | AZW3 | 0.72 MB
+
+_________________________________________________________________________________________________
+_________________________________________________________________________________________________
+
+20200915 -> OK
+
+Accept the assignment —
+React and Rails Challenge V0
+Once you accept this assignment, you will be granted access to the react-and-rails-challenge-v0-unimauro repository in the getonbrd-concierge organization on GitHub.
+
+Hacer reto de GetOnBOARD : 2020/09/14 LISTO 
+_______________________________
+:::Melissa Amado
+
+Publicacion de hits :)
+
+Alcances y reunion tecnica :) 
+
+Cuadrar bien los numero.
+
+Jorge o Geanpear :)
+
+DEEPmit 
+_______________________________
+
+
 _________________________________________________________________________________________________
 _________________________________________________________________________________________________
 20200914 -> OK
